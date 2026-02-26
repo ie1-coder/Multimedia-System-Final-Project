@@ -66,7 +66,7 @@ MultimediaSystem
 ### Steps
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/Multimedia-System-Final-Project.git
+   git clone https://github.com/ie1-coder/Multimedia-System-Final-Project.git
    ```
 2. **Open in NetBeans:**
    - Launch Apache NetBeans.
