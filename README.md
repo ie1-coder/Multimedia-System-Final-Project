@@ -56,16 +56,6 @@ MultimediaSystem
 ```
 
 
-## 📐 System Modeling (UML)
-
-Detailed system diagrams are available via Lucidchart:
-
-- **Use Case Diagram:** [View Diagram](#) *(Insert your Lucidchart Link Here)*
-- **Class Diagram:** [View Diagram](#) *(Insert your Lucidchart Link Here)*
-- **Sequence Diagram:** [View Diagram](#) *(Optional)*
-
----
-
 ## ⚙️ Installation & Usage
 
 ### Prerequisites
