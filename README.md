@@ -55,18 +55,6 @@ MultimediaSystem
 └── com.media.utils         # Helper Functions
 ```
 
----
-
-## 🎨 Architectural Design
-
-### Design Pattern: Strategy Pattern
-We utilized the **Strategy Pattern** to define a family of algorithms (Audio vs. Video playback), encapsulate each one, and make them interchangeable. This allows the playback method to vary independently from the clients that use it.
-
-- **Interface:** `MediaStrategy`
-- **Concrete Strategies:** `AudioStrategy`, `VideoStrategy`
-- **Context:** `MediaPlayer`
-
----
 
 ## 📐 System Modeling (UML)
 
