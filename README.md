@@ -89,8 +89,8 @@ This project follows a strict version control workflow. Screenshots of the follo
 
 ## 👨‍💻 Author & Credits
 
-- **Student:** `[Your Name Here]`
-- **Student ID:** `[Your ID Here]`
+- **Student:** `ibrahim nabil]`
+- **Student ID:** `120225378]`
 - **Instructor:** **Mr. Firas F. Al-ijla**
 - **Course:** Software Engineering & Multimedia Systems
 - **Semester:** First Semester 2025-2026
